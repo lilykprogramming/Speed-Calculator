@@ -1,0 +1,20 @@
+D:\pm7C#\Calculate\bin\Debug\Calculate.exe.config
+D:\pm7C#\Calculate\bin\Debug\Calculate.exe
+D:\pm7C#\Calculate\bin\Debug\Calculate.pdb
+D:\pm7C#\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+D:\pm7C#\Calculate\obj\Debug\Calculate.Form1.resources
+D:\pm7C#\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\pm7C#\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\pm7C#\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\pm7C#\Calculate\obj\Debug\Calculate.exe
+D:\pm7C#\Calculate\obj\Debug\Calculate.pdb
+D:\DOBROpm7C#\1. Calculate\bin\Debug\Calculate.exe.config
+D:\DOBROpm7C#\1. Calculate\bin\Debug\Calculate.exe
+D:\DOBROpm7C#\1. Calculate\bin\Debug\Calculate.pdb
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.Form1.resources
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.exe
+D:\DOBROpm7C#\1. Calculate\obj\Debug\Calculate.pdb
